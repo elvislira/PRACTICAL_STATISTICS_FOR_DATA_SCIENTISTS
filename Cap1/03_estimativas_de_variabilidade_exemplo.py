@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from scipy.stats import median_abs_deviation
 
 
 dados = pd.read_csv('Dados/state.csv')
